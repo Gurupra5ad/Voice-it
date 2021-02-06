@@ -1,12 +1,4 @@
 @charset "utf-8";
-/*------------------------------------------------------------------
-[Master Stylesheet]
-
-Project: Rhythm
-Version: 2.17
-Last change: 25 September 2020
-Primary use: MultiPurpose Template  
--------------------------------------------------------------------*/
 
 @import "font-awesome.min.css";
 @import "et-line.css";
@@ -94,7 +86,9 @@ Section Text:       15px/1.7 "Open Sans", arial, sans-serif;
 
 -------------------------------------------------------------------*/
 
-
+.about-section{
+    height:900px;
+}
 /* ==============================
    Common styles
    ============================== */
@@ -3272,6 +3266,8 @@ a.logo:hover{
 .count-wrapper{
     padding: 40px 20px;
     border: 1px solid rgba(0,0,0, .09);
+    background-image: linear-gradient(to left, rgba(243, 125, 56, 0), rgb(245, 120, 37));
+    color:black;
 }
 .count-number{
     font-size: 48px;
@@ -3280,7 +3276,7 @@ a.logo:hover{
     text-align: center;
 }
 .count-descr{
-    color: #999;
+    color:black;
     font-size: 11px;
     text-align:center;
 }
