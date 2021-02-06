@@ -3265,8 +3265,7 @@ a.logo:hover{
 
 .count-wrapper{
     padding: 40px 20px;
-    border: 1px solid rgba(0,0,0, .09);
-    background-image: linear-gradient(to left, rgba(243, 125, 56, 0), rgb(245, 120, 37));
+    border: 1px solid rgba(2, 0, 0, 0.5);
     color:black;
 }
 .count-number{
