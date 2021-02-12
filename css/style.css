@@ -4162,11 +4162,11 @@ a.logo:hover{
 
 
 .footer-social-links{
-    font-size: 14px;
+    font-size: 25px;
 }
 .footer-social-links a{
-    width: 25px;
-    height: 25px;
+    width: 40px;
+    height: 40px;
     line-height: 25px !important;
     position: relative;
     margin: 0 6px;
@@ -4186,7 +4186,7 @@ a.logo:hover{
     top: 0;
     left: 0; 
 }
-.footer-social-links a:before{
+/* .footer-social-links a:before{
     content: "";
     display: inline-block;
     width: 100%;
@@ -4194,7 +4194,7 @@ a.logo:hover{
     position: absolute;
     top: 0;
     left: 0;
-    border: 1px solid #111;
+    /* border: 1px solid #111; */
     
     -webkit-border-radius: 2px;
     -moz-border-radius: 2px;
@@ -4211,7 +4211,7 @@ a.logo:hover{
     -o-transition: all 0.27s cubic-bezier(0.300, 0.100, 0.580, 1.000);
     -ms-transition: all 0.27s cubic-bezier(0.300, 0.100, 0.580, 1.000); 
     transition: all 0.27s cubic-bezier(0.300, 0.100, 0.580, 1.000);
-    
+     */
 }
 .footer-social-links a:hover{
     color: #fff;
