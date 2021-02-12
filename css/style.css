@@ -4172,7 +4172,7 @@ a.logo:hover{
     margin: 0 6px;
     text-align: center;
     display: inline-block;
-    color: #111;
+    color: #fff;
     
     -webkit-transition: all 0.27s cubic-bezier(0.300, 0.100, 0.580, 1.000);  
     -moz-transition: all 0.27s cubic-bezier(0.300, 0.100, 0.580, 1.000); 
@@ -4228,7 +4228,7 @@ a.link-to-top{
     height: 40px;
     line-height: 40px;
     text-align: center;
-    color: rgba(0,0,0, .2);
+    color: rgba(248, 244, 244, 0.973);
     font-size: 48px;
 }
 
