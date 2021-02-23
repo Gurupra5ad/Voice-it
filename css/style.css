@@ -3932,12 +3932,12 @@ a.logo:hover{
     transition: all 0.27s cubic-bezier(0.300, 0.100, 0.580, 1.000);
 }
 .contact-item a{
-    color: #444;
+    color:white;
     text-decoration: none;    
 }
 
 .contact-item a:hover{
-    color: #000;
+    color:orange;
     text-decoration: none;
 }
 
@@ -3978,7 +3978,7 @@ a.logo:hover{
 }
 .ci-title{
     margin-bottom: 1px;
-    color: #777;    
+    color:white;    
     font-size: 12px;
     font-weight: 400;
     text-transform: uppercase;
